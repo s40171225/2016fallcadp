@@ -1,4 +1,5 @@
 # 國立虎尾機械設計工程系大二電腦輔助設計實習課程規劃
+# 二十一世紀的機械設計產品開發, 必須能夠直接在網路上進行協同設計, 系統與產品都必須納入產品生命週期管理外, 所有工具都應該能夠隨著需求變更而持續改進.
 # syllabus.py
 # 各學員利用學校所發的 Gmail 帳號, 以學號作為帳號申請 github 帳號
 # 期中考週前, 主要實習項目為 task1.py, 目標為組裝一台 Kossel Delta 3D printer, 並利用 Solvespace, OnShape, Creo Parametric, Solidworks 建立零組件ㄡ
