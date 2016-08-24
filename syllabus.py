@@ -39,4 +39,9 @@ http://link.springer.com/book/10.1007/978-3-662-46391-8 (Handbook Factory Planni
 http://link.springer.com/book/10.1007/978-3-8348-9789-3 (Chassis Handbook)
 http://link.springer.com/book/10.1007/978-1-4614-7450-0 (Handbook of Food Factory Design)
 http://link.springer.com/book/10.1007/978-1-4939-0755-7 (Springer Handbook of Acoustics)
+----
+http://link.springer.com/book/10.1007/978-3-319-27131-6 (Computational Design of Rolling Bearings)
+http://link.springer.com/book/10.1007/978-3-319-29841-2 (Heat Pipe Design and Technology)
+http://link.springer.com/book/10.1007/978-3-319-29155-0 (Collaboration in Creative Design)
+http://link.springer.com/book/10.1007/978-3-319-35155-1 (The Philosophy of Science and Engineering Design)
 '''
