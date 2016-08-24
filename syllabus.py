@@ -21,3 +21,21 @@
 '''
 # 上課方式: 課堂講解, 課堂提問與討論, 各成員 github 與 bitbucket (僅作為同步備份用) 倉儲的協同與維護 (採基本的提交推送與拉回請求等模式)
 # 課程評量: 學員自評 (30%), 組內學員互評 (30%), 各組員 github 倉儲與靜態網誌內容評量 (40%) (此一網際課程評量程式設為本課程 task2.py)
+'''
+reference books:
+學校已經購買的電子書 (必須在電腦教室中下載)
+http://link.springer.com/book/10.1007/978-1-4842-1085-7 (Beginning Windows 10)
+http://link.springer.com/book/10.1007/978-1-4842-1173-1 (3D Printing with Delta Printers)
+http://link.springer.com/book/10.1007/978-1-4302-6808-6 (Maintaining and Troubleshooting Your 3D Printer)
+http://link.springer.com/book/10.1007/978-3-662-46221-8 (Handbook of Mathematics)
+http://link.springer.com/referencework/10.1007/0-387-21632-4 (Handbook of Physics)
+http://link.springer.com/book/10.1007/978-1-4419-7719-9 (Handbook of Open Source Tools)
+http://link.springer.com/book/10.1007/978-3-319-19303-8 (Handbook of Modern Sensors)
+http://link.springer.com/book/10.1007/978-3-319-32552-1 (Springer Handbook of Robotics)
+http://link.springer.com/book/10.1007/978-3-662-45373-5 (Project Management Handbook)
+http://link.springer.com/book/10.1007/978-3-642-24458-2 (Handbook of Manufacturing Control)
+http://link.springer.com/book/10.1007/978-3-662-46391-8 (Handbook Factory Planning and Design)
+http://link.springer.com/book/10.1007/978-3-8348-9789-3 (Chassis Handbook)
+http://link.springer.com/book/10.1007/978-1-4614-7450-0 (Handbook of Food Factory Design)
+http://link.springer.com/book/10.1007/978-1-4939-0755-7 (Springer Handbook of Acoustics)
+'''
