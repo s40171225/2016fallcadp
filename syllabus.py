@@ -24,6 +24,7 @@
 '''
 reference books:
 學校已經購買的電子書 (必須在電腦教室中下載)
+http://link.springer.com/book/10.1007/978-1-4842-0076-6 (Pro Git)
 http://link.springer.com/book/10.1007/978-1-4842-1085-7 (Beginning Windows 10)
 http://link.springer.com/book/10.1007/978-1-4842-1173-1 (3D Printing with Delta Printers)
 http://link.springer.com/book/10.1007/978-1-4302-6808-6 (Maintaining and Troubleshooting Your 3D Printer)
