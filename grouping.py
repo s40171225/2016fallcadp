@@ -27,7 +27,7 @@ def optionaction():
     total_column = 9
     # 上面為相關變數的初始值設定, 以下開始取出 data_a 或 data_b 進行處理, 由 option3 傳回值決定
     # 2016spring2a.txt 為 2a 當時的分組資料, 位於同一列的學號屬於同一自選組
-    content = open("2016spring2a.txt").read()
+    content = open("2016fallcadpa.txt").read()
     #result = content.splitlines()
     for line in content.splitlines():
         result.append(list(line.split(",")))
